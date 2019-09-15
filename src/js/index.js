@@ -9,5 +9,6 @@ var init = (() =>{
     budgetView.updateMonth();
     budgetView.clearFields();
     budgetView.initListeners();
+
     
 })();
