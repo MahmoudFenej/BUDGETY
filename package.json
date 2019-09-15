@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "budgety_es6",
+=======
+  "name": "budgety",
+>>>>>>> efed82c631673802ea5d79c944be1be1f10b3293
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
