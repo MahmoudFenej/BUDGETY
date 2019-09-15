@@ -1,0 +1,15 @@
+export const elements = {
+    budgetAddBtn: document.querySelector(".add__btn"),
+    budgetDeleteBtn: document.querySelector(".item__delete--btn"),
+    budgetDescriptionTxtField: document.querySelector(".add__description"),
+    budgetValueTxtField: document.querySelector(".add__value"),
+    budgetIncomeList: document.querySelector(".income__list"),
+    budgetExpenseList: document.querySelector(".expenses__list"),
+    budgetTypeCmbBox: document.querySelector(".add__type"),
+    budgetIncomeValue: document.querySelector(".budget__income--value"),
+    budgetExpenseValue: document.querySelector(".budget__expenses--value"),
+    budgetValue: document.querySelector(".budget__value"),
+    budgetTitleMonth: document.querySelector(".budget__title"),
+    budgetExpensePercentage: document.querySelector(".budget__expenses--percentage"),
+    container: document.querySelector(".container"),
+}
